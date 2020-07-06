@@ -1,4 +1,4 @@
-# ramyaanandtharang-UNICEF-Arm-2030-Vision-1-Flood-Prediction-in-Malaw
+# UNICEF-Arm-2030-Vision-1-Flood-Prediction-in-Malaw
 
 In recent decades, countries across Africa have experienced an increase in the frequency and severity of floods.
 Malawi has been hit with major floods in 2015 and again in 2019.
